@@ -34,7 +34,8 @@ Code for the papers, in the Wang Genomics Lab organisation at CHOP and Penn.
 
 **[GestaltMML](https://github.com/WGLab/GestaltMML)**
 The first multimodal framework for rare disease diagnosis to combine facial images with clinical
-text. My first-author paper, and I am the only contributor to the repository.
+text. My first-author paper, accepted at IEEE BIBM 2026, and I am the only contributor to the
+repository.
 
 **[MINT-LLM](https://github.com/WGLab/MINT-LLM)**
 Multimodal knowledge transfer into language models through preference optimization. Co-authored with

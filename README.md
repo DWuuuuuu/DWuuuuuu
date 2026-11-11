@@ -9,6 +9,12 @@ data pipelines and test harnesses that work of that kind needs.
 
 ### Work here
 
+**[epigram](https://github.com/chkim15/epigram)**
+The product I run as Head of Product: a math learning platform, Next.js on Supabase and Postgres,
+with two Ivy League master's programs as institutional customers. I own the problem corpus, every
+solution path in it verified by hand. The repo lives on my co-founder Chulhee Kim's account and I
+commit to it there.
+
 **[quant-research-harness](https://github.com/DWuuuuuu/quant-research-harness)**
 Backtesting engine for long-only cross-sectional equity strategies. Point-in-time data discipline,
 explicit transaction and tax costs, and 51 tests, one of which asserts that future prices cannot
@@ -21,6 +27,21 @@ valuation, macro and policy-path state, and public prediction markets, in one wo
 
 **[DWuuuuuu.github.io](https://github.com/DWuuuuuu/DWuuuuuu.github.io)**
 Source of the personal site.
+
+### Research code
+
+Code for the papers, in the Wang Genomics Lab organisation at CHOP and Penn.
+
+**[GestaltMML](https://github.com/WGLab/GestaltMML)**
+The first multimodal framework for rare disease diagnosis to combine facial images with clinical
+text. My first-author paper, and I am the only contributor to the repository.
+
+**[MINT-LLM](https://github.com/WGLab/MINT-LLM)**
+Multimodal knowledge transfer into language models through preference optimization. Co-authored with
+Zhanliang Wang; published in Patterns, spotlight at the ICML 2025 GenBio workshop.
+
+**[PhenoGPT](https://github.com/WGLab/PhenoGPT)**
+Phenotype recognition from clinical notes. Co-authored, and the most used of these: 34 stars.
 
 ### How I work
 

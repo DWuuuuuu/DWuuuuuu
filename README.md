@@ -39,8 +39,8 @@ because the records are access-restricted and qualified annotators for them are 
 
 *Paper.* **[Multimodal integrated knowledge transfer to large language models through preference
 optimization](https://doi.org/10.1016/j.patter.2026.101544).**
-Wang, Z., **Wu, D.**, Nguyen, Q.M., Xu, Z., Wang, K. *Patterns* 7(8), 101544 (2026).
-ICML 2025 GenBio Workshop spotlight.
+Wang, Z.†, **Wu, D.**†, Nguyen, Q.M., Xu, Z., Wang, K. *Patterns* 7(8), 101544 (2026).
+ICML 2025 GenBio Workshop spotlight. †Joint first authors.
 
 **[PhenoGPT](https://github.com/WGLab/PhenoGPT)**
 
@@ -56,7 +56,8 @@ Further papers in this area, with no repository of their own:
 - **[Exploring the reversal curse and other deductive logical reasoning in BERT- and GPT-based large
   language models](https://doi.org/10.1016/j.patter.2024.101030).**
 
-  **Wu, D.**, Yang, J., Wang, K. *Patterns* 5(9), 101030 (2024). 26 pages in the preprint.
+  **Wu, D.**†, Yang, J.†, Wang, K. *Patterns* 5(9), 101030 (2024). 26 pages in the preprint.
+  †Joint first authors.
 
   *An evaluation study: the artifact is the design, not the code.*
 - **[Classification of integers based on residue classes via modern deep learning
@@ -71,15 +72,16 @@ Further papers in this area, with no repository of their own:
 - **[Integrating chain-of-thought and retrieval-augmented generation enhances rare disease diagnosis
   from clinical notes](https://doi.org/10.1002/mdb2.70033).**
 
-  Wang, Z., **Wu, D.**, Nguyen, Q., Wang, K. *Medicine Bulletin* 2(2), 167–183 (2026). 17 pages.
+  Wang, Z.†, **Wu, D.**†, Nguyen, Q., Wang, K. *Medicine Bulletin* 2(2), 167–183 (2026).
+  17 pages. †Joint first authors.
 
 ### Causal inference
 
 - **Three-sided testing with two control groups, with an application to an observational study of
   the impact of high school football participation on subsequent cognitive functioning.**
 
-  **Wu, D.**, Horng, I., Deshpande, S.,
-  [Small, D.](https://statistics.wharton.upenn.edu/profile/dsmall/) Preprint.
+  **Wu, D.**†, Horng, I.†, Deshpande, S.,
+  [Small, D.](https://statistics.wharton.upenn.edu/profile/dsmall/) Preprint. †Joint first authors.
 
   *The procedure controls the familywise error rate across two control groups and bounds
   sensitivity to unmeasured confounding, which is what it takes to say anything credible about

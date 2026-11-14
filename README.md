@@ -42,7 +42,7 @@ Multimodal knowledge transfer into language models through preference optimizati
 Zhanliang Wang; published in Patterns, spotlight at the ICML 2025 GenBio workshop.
 
 **[PhenoGPT](https://github.com/WGLab/PhenoGPT)**
-Phenotype recognition from clinical notes. Co-authored, and the most used of these: 34 stars.
+Phenotype recognition from clinical notes. Co-authored, and the most used of the three.
 
 ### How I work
 

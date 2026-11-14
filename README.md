@@ -51,7 +51,19 @@ models](https://doi.org/10.1016/j.patter.2023.100887).**
 Yang, J., Liu, C., Deng, W., **Wu, D.**, Weng, C., Zhou, Y., Wang, K. *Patterns* 5(1) (2024).
 32 pages in the preprint.
 
-Further papers in this area, with no repository of their own:
+**[CoT-RAG-LLM-Gene-Prioritization-Disease-Diagnosis](https://github.com/WGLab/CoT-RAG-LLM-Gene-Prioritization-Disease-Diagnosis)**
+
+Chain-of-thought prompting with retrieval-augmented generation for rare disease diagnosis and gene
+prioritization, across five inference methods, with FAISS retrieval over biomedical embeddings,
+reranking, and an automated evaluator. I am a contributor to the repository and joint first author
+on the paper.
+
+*Paper.* **[Integrating chain-of-thought and retrieval-augmented generation enhances rare disease
+diagnosis from clinical notes](https://doi.org/10.1002/mdb2.70033).**
+Wang, Z.†, **Wu, D.**†, Nguyen, Q., Wang, K. *Medicine Bulletin* 2(2), 167–183 (2026).
+17 pages. †Joint first authors.
+
+Further papers in this area:
 
 - **[Exploring the reversal curse and other deductive logical reasoning in BERT- and GPT-based large
   language models](https://doi.org/10.1016/j.patter.2024.101030).**
@@ -69,11 +81,6 @@ Further papers in this area, with no repository of their own:
 
   Nguyen, Q.M., Chen, F., Liu, C., Campbell, I.M., Zhang, G., **Wu, D.** et al.
   *npj Digital Medicine* (2026). 15 pages.
-- **[Integrating chain-of-thought and retrieval-augmented generation enhances rare disease diagnosis
-  from clinical notes](https://doi.org/10.1002/mdb2.70033).**
-
-  Wang, Z.†, **Wu, D.**†, Nguyen, Q., Wang, K. *Medicine Bulletin* 2(2), 167–183 (2026).
-  17 pages. †Joint first authors.
 
 ### Causal inference
 
